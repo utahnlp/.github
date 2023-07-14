@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Visit the website of the Utah NLP group for more information: https://nlp.cs.utah.edu
+We are the UtahNLP group. Visit [our website](https://nlp.cs.utah.edu) more information about us.
 
 <!--
 
